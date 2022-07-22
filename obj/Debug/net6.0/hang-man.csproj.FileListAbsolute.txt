@@ -1,0 +1,30 @@
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\obj\Debug\net6.0\hang-man.csproj.AssemblyReference.cache
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\obj\Debug\net6.0\hang-man.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\obj\Debug\net6.0\hang-man.AssemblyInfoInputs.cache
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\obj\Debug\net6.0\hang-man.AssemblyInfo.cs
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\obj\Debug\net6.0\hang-man.csproj.CoreCompileInputs.cache
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\bin\Debug\net6.0\hang-man.exe
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\bin\Debug\net6.0\hang-man.deps.json
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\bin\Debug\net6.0\hang-man.runtimeconfig.json
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\bin\Debug\net6.0\hang-man.dll
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\bin\Debug\net6.0\hang-man.pdb
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\obj\Debug\net6.0\hang-man.dll
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\obj\Debug\net6.0\refint\hang-man.dll
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\obj\Debug\net6.0\hang-man.pdb
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\obj\Debug\net6.0\hang-man.genruntimeconfig.cache
+C:\Users\User\Progra - Proyecto\Proyecto 1 - C#\hang-man\obj\Debug\net6.0\ref\hang-man.dll
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\bin\Debug\net6.0\hang-man.exe
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\bin\Debug\net6.0\hang-man.deps.json
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\bin\Debug\net6.0\hang-man.runtimeconfig.json
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\bin\Debug\net6.0\hang-man.dll
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\bin\Debug\net6.0\hang-man.pdb
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\obj\Debug\net6.0\hang-man.csproj.AssemblyReference.cache
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\obj\Debug\net6.0\hang-man.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\obj\Debug\net6.0\hang-man.AssemblyInfoInputs.cache
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\obj\Debug\net6.0\hang-man.AssemblyInfo.cs
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\obj\Debug\net6.0\hang-man.csproj.CoreCompileInputs.cache
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\obj\Debug\net6.0\hang-man.dll
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\obj\Debug\net6.0\refint\hang-man.dll
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\obj\Debug\net6.0\hang-man.pdb
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\obj\Debug\net6.0\hang-man.genruntimeconfig.cache
+C:\Users\User\Progra - Proyecto\Trabajo en clase #10 - Juego de Hang Man\hang-man\obj\Debug\net6.0\ref\hang-man.dll
